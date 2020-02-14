@@ -10645,7 +10645,7 @@ const struct flashchip flashchips[] = {
 		.name		= "N25Q128..1E", /* ..1E = 1.8V, uniform 64KB/4KB blocks/sectors */
 		.bustype	= BUS_SPI,
 		.manufacture_id	= ST_ID,
-		.model_id	= ST_N25Q128__1E,
+		.model_id	= ST_N25Q128_1E,
 		.total_size	= 16384,
 		.page_size	= 256,
 		/* supports SFDP */
