@@ -868,7 +868,7 @@
 #define ST_N25Q064__3E		0xBA17	/* N25Q064, 3.0V, (uniform sectors expected) */
 #define ST_N25Q064__1E		0xBB17	/* N25Q064, 1.8V, (uniform sectors expected) */
 #define ST_N25Q128__3E		0xBA18	/* N25Q128/MT25QL128, 3.0V, (uniform sectors expected) */
-#define ST_N25Q128__1E		0xBB18	/* N25Q128/MT25QU128, 1.8V, (uniform sectors expected) */
+#define ST_N25Q128_1E		0xBB18	/* N25Q128/MT25QU128, 1.8V, (uniform sectors expected) */
 #define ST_N25Q256__3E		0xBA19	/* N25Q256/MT25QL256, 3.0V, (uniform sectors expected) */
 #define ST_N25Q256__1E		0xBB19	/* N25Q256/MT25QU256, 1.8V, (uniform sectors expected) */
 #define ST_N25Q512__3G		0xBA20	/* N25Q512/MT25QL512, 3.0V, (uniform sectors expected) */
